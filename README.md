@@ -18,4 +18,4 @@ Each certificate is uploaded as a PNG or PDF file and can be **viewed or downloa
 
 ## Purpose
 This repository serves as a **single, verifiable source** for recruiters and employers to confirm my skills and achievements.  
-[View Certificates](https://github.com/SharonKoech/Certificates)
+[View Certificates](https://github.com/Sharon1347/Certificates)
