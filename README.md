@@ -5,7 +5,6 @@ Welcome! This repository contains verifiable copies of my professional and techn
 ## Certifications
 - Google Cybersecurity Professional Certificate  
 - Networking Essentials – Cisco Networking Academy (ICT Authority Kenya)  
-- Introduction to Cybersecurity – Cisco NetAcad  
 - Microsoft/LinkedIn Career Essentials in Cybersecurity  
 - Cybersecurity & Emerging Technologies Awareness – ICT Authority  
 - TryHackMe – Presecurity  
