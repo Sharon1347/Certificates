@@ -9,7 +9,7 @@ Welcome! This repository contains verifiable copies of my professional and techn
 - Cybersecurity & Emerging Technologies Awareness – ICT Authority  
 - TryHackMe – Presecurity  
 - Data Analytics Essentials  
-- AWS Knowledge: Cloud Essentials  
+- AWS: Cloud Essentials  
 - Internet Governance Course – Internet Society  
 - Data Protection Course – Strathmore University  
 
